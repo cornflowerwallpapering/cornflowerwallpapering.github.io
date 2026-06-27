@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title><img src='logo.png' style='max-width:180px'><br>Cornflower Wallpapering</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="overlay">
+    <img class="logo" src="logo.png" alt="Cornflower Wallpapering logo">
+    <h1>Cornflower Wallpapering</h1>
+    <p>Professional Wallpaper Installation in Los Angeles</p>
+    <div class="buttons">
+      <a href="tel:7472034771">Call (747) 203-4771</a>
+      <a href="https://wa.me/17472034771">WhatsApp</a>
+    </div>
+  </div>
+</header>
+
+<section class="gallery">
+<h2>Featured Projects</h2>
+<div class="grid">
+<div class="card"><h3>Bathrooms</h3><p>Luxury wallpaper installation with perfect pattern matching.</p></div>
+<div class="card"><h3>Accent Walls</h3><p>Modern, botanical and designer feature walls.</p></div>
+<div class="card"><h3>Ceilings</h3><p>Statement ceiling wallpaper installations.</p></div>
+<div class="card"><h3>Nurseries</h3><p>Clean, precise wallpaper for children's rooms.</p></div>
+</div>
+</section>
+
+<section class="about">
+<h2>Why Choose Cornflower?</h2>
+<ul>
+<li>4+ years experience</li>
+<li>Clean installation</li>
+<li>Perfect pattern matching</li>
+<li>Wallpaper removal</li>
+<li>Accent walls & murals</li>
+</ul>
+</section>
+
+<footer>
+<h2>Get a Free Estimate</h2>
+<p>Call or message on WhatsApp for a fast quote.</p>
+</footer>
+<section><h2>Gallery</h2><img src="images/IMG_2049_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_2063_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_2440_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_2584_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_2600_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_2601_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_3028_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_3030_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_3245_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_3281_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_3406_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_3419_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_3544_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_3545_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_3617_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_4125_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_5750_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_5873_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_6281_Original.jpg" style="width:30%;margin:1%"><img src="images/IMG_6283_Original.jpg" style="width:30%;margin:1%"></section></body>
+</html>
